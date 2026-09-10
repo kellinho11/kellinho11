@@ -10,6 +10,10 @@
 
 </div>
 
+<div align="center">
+  <img src="./assets/quantum-wall.svg" alt="quantum wall" width="100%"/>
+</div>
+
 ---
 
 ## `01 // IDENTITY`
